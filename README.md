@@ -1,2 +1,3 @@
 # OpenATZ
-Projeto da cadeira de EES06 - Software de Fonte Aberto
+Projeto pessoal de fonte aberto.
+Até agora não tem nada.
